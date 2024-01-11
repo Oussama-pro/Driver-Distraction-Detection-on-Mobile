@@ -1,0 +1,8 @@
+<!-- res/anim/button_click_animation.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:propertyName="backgroundColor"
+        android:valueTo="#4CAF50"
+        android:valueType="intType"
+        android:duration="300" />
+</set>
